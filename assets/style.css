@@ -1,0 +1,61 @@
+h1 {
+background-color: black;
+color: darkcyan;
+}
+
+nav {
+    
+    background-color: dimgrey;
+    color:aliceblue
+    
+}
+
+h2 {
+    color: darkcyan;
+}
+.headshot-image {
+
+    width: 250px;
+    }
+
+  .about-me {
+
+    background-color:antiquewhite;
+    color:darkcyan
+  }
+
+   .projects  {
+
+    display: flex;
+    gap: 1rem;
+  } 
+
+  .project {
+    height: 250px;
+    width: 250px;
+    border: 2px solid red;
+  }
+
+  .project-1 {
+    background-image: url(./More-Coming-Soon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .horiseon {
+    background-image: url(./01-html-css-git-homework-demo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    size: 200%;
+  }
+
+  p {
+    color: red;
+}
+
+
+footer {
+    background-color: antiquewhite;
+    color: darkcyan;
+    font-size: large;
+}
